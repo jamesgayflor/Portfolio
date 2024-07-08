@@ -1,0 +1,79 @@
+/* The codes below are specicific style sheet chages 
+made on the <About Page> */
+
+.summary_info_box_two {
+    margin-top: 4%;
+}
+
+.conclusion_box_two {
+    margin-top: 2%;
+    margin-left: 10%;
+}
+
+.about_heading {
+    font-family: 'Oswald', sans-serif;
+    font-size: 22px;
+    letter-spacing: 4px;
+    font-weight: bolder;
+    padding-bottom: 7px;
+    margin-left: 10%;
+}
+
+.about_paragraph {
+    font-family: 'Oswald', sans-serif;
+    font-size: 19px;
+    letter-spacing: 4px;
+    padding-bottom: 7px;
+    margin-left: 10%;
+    color: blue;
+}
+
+.home_link_two {
+    text-decoration: none;
+    transition: 0.2s ease-in-out 0.2s;
+}
+
+
+/*------------------------------------------*/
+
+
+/* The codes below are specicific style sheet chages 
+made on the <Skills Page> */
+
+.about_link_two {
+    text-decoration: none;
+    transition: 0.2s ease-in-out 0.2s;
+}
+
+.skills_link {
+    text-decoration: 3px underline blue;
+    transition: 0.2s ease-in-out 0.2s;
+}
+
+.skills_link:hover {
+    text-decoration: 3px underline grey;
+}
+
+
+/*------------------------------------------*/
+
+
+/* The codes below are specicific style sheet chages 
+made on the <contact Page> */
+
+.about_link_off {
+    text-decoration: none;
+    transition: 0.2s ease-in-out 0.2s;
+}
+
+.contact_link {
+    text-decoration: 3px underline blue;
+    transition: 0.2s ease-in-out 0.2s;
+}
+
+.contact_link:hover {
+    text-decoration: 3px underline grey;
+}
+
+
+/*_________________________________________*/
